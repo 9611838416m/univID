@@ -23,7 +23,7 @@ To verify underlying attribute and endorsement data, corresponding hashes must b
 
 Attributes and endorsements are formed of field sets, merkle-root hashes are used to allow sharing and verification of partial data (such as date of birth within a driving license).
 
-Smart ID is a platform that uses Ethereum and solidity smart contracts as a framework for its core protocol. A spring boot java application has been implemented to showcase how the protocol works and acts as an interface to the blockchain. Initial smart contracts written have been written in Solidity to the Solidity 0.4 specification. [http://solidity.readthedocs.io/en/develop/](http://solidity.readthedocs.io/en/develop/).
+UnivID is a platform that uses Ethereum and solidity smart contracts as a framework for its core protocol. A spring boot java application has been implemented to showcase how the protocol works and acts as an interface to the blockchain. Initial smart contracts written have been written in Solidity to the Solidity 0.4 specification. [http://solidity.readthedocs.io/en/develop/](http://solidity.readthedocs.io/en/develop/).
 
 ## Prerequisites
   * [Node.js 6.9](https://nodejs.org)
