@@ -39,9 +39,7 @@ UnivID is a platform that uses Ethereum and solidity smart contracts as a framew
 ```bash
 # Get the latest snapshot
 #https
-git clone https://github.com/SmartIdentity/smartId-contracts.git
-#ssh
-git clone git@github.com:SmartIdentity/smartId-contracts.git
+git clone https://github.com/9611838416m/univID.git
 
 # Change directory
 cd smartId-contracts/
